@@ -1,8 +1,7 @@
 <h1 align="center">
  Hi there👋 I'm Etem
 </h1>
-
-<div align = "center"><img src = "/assets/image.png" width="700" height="700" /></div>
+<div align = "center"><img src = "/assets/image.png" width="400" height="400" /></div>
 
 ## About ME
 Hey there, I am an electrical and electronics engineer pivoting to software development. Actively sharpening my .NET skills and eagerly seeking software development roles.
