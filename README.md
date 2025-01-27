@@ -1,6 +1,3 @@
-## About ME
-Hey there, I am an electrical and electronics engineer pivoting to software development. Actively sharpening my .NET skills and eagerly seeking software development roles.
-
 ```csharp
 var aboutEtem = new Dictionary<string, dynamic>
 {
