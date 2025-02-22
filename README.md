@@ -13,12 +13,6 @@ var aboutEtem = new Dictionary<string, dynamic>
     {
         MainLanguage = "C#",
         Framework = ".NET Core",
-    },
-    ["CareerAspirations"] = new
-    {
-        ShortTermGoal = "Secure an Entry-Level Position in Software Development",
-        LongTermVision = "Become a Specialist in Software and AI",
-        KeyStrengths = new[] { "Problem-Solving Skills", "Eagerness to Learn" }
     }
 };
 ```
